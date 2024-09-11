@@ -1,15 +1,17 @@
 .app {
   display: grid;
   grid-template-rows: 150px auto;
+  background-color: #f5f7fa;
 }
 
 .app_main {
   display: flex;
   justify-content: space-evenly;
-  padding: 20px 8%;
+  padding: 40px 10%;
+  background-color: #eef0f5;
 }
 
-.task_coloumn {
-  width: 33.33%;
+.task_column {
+  width: 30%;
   margin: 20px;
 }
