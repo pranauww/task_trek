@@ -61,7 +61,8 @@
 ## Screenshot
 
 Here is a screenshot of the application:
-src/assets/Screenshot.png
+![Screenshot](src/assets/Screenshot.png)
+
 
 ## Contributions
 Feel free to submit issues or pull requests. Contributions are welcome!
