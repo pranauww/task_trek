@@ -57,6 +57,11 @@
 
 3. **Deleting Tasks**:
    - Click the delete icon on any task to remove it from the list.
+  
+## Screenshot
+
+Here is a screenshot of the application:
+src/assets/Screenshot.png
 
 ## Contributions
 Feel free to submit issues or pull requests. Contributions are welcome!
